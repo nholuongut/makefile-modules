@@ -81,4 +81,4 @@ See [Makefile](./Makefile) for more details.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
-* Nho Luong (c). All Rights Reserved.🌟
+* Nho Luong (c). All Rights Reserved.🌟# Update format for README.md
